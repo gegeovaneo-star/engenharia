@@ -1,0 +1,5 @@
+{
+  "name": "Sistema de Suporte Técnico - Engenharia",
+  "description": "Um sistema de formulário para registrar relatórios de suporte técnico de engenharia, com sugestões de solução geradas por IA.",
+  "requestFramePermissions": []
+}
